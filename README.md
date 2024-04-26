@@ -1,4 +1,6 @@
 # links
-Web site - Links to all platforms <br/>
-https://wikiskyy.github.io/links/<br/>
-https://bit.ly/wikiskyy<br/>
+Web site - Links to all platforms <br/><br/>
+• https://bit.ly/wikiskyy ↓<br/>
+• https://wikiskyy.github.io/links/ ↓<br/>
+• https://wikiskyy.pp.ua/links/ ↓<br/>
+• https://links.wikiskyy.pp.ua/ <br/>
